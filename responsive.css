@@ -1,0 +1,12 @@
+@media screen and (max-width: 425px) {
+    .background1 {
+      width: 100%;
+      background-position: 20%;
+    }
+    .text3 span {
+      font-size: 34px !important;
+    }
+    main .background1 p {
+      font-size: 14px;
+    }
+  }
